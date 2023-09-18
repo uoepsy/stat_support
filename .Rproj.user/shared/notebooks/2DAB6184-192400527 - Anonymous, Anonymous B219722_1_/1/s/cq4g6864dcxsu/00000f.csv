@@ -1,0 +1,4 @@
+"0","ggplot(MSdata) +"
+"0","  aes(x = species, fill = rearing) +"
+"0","  geom_bar(position = ""dodge"")+"
+"0","  labs(title = ""Primate rearing & species distribution"")"

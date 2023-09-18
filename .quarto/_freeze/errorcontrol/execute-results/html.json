@@ -1,0 +1,18 @@
+{
+  "hash": "0f4589936ee61c3fdc2c8c4a154a939d",
+  "result": {
+    "markdown": "---\ntitle: \"Error Control\"\nparams: \n    SHOW_SOLS: TRUE\n    TOGGLE: TRUE\neditor_options: \n  chunk_output_type: console\n---\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-in-header": [
+        "<link href=\"site_libs/panelset-0.2.6/panelset.css\" rel=\"stylesheet\" />\r\n<script src=\"site_libs/panelset-0.2.6/panelset.js\"></script>\r\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "index.qmd": {
+    "index.html": "f6f1fe32"
+  },
+  "template.qmd": {
+    "template.html": "051267e4"
+  },
+  "tests.qmd": {
+    "tests.html": "1025f817"
+  },
+  "ttest.qmd": {
+    "ttest.html": "fc4f8a1c"
+  },
+  "chisq.qmd": {
+    "chisq.html": "81190cbe"
+  },
+  "covcor.qmd": {
+    "covcor.html": "04eddc5d"
+  },
+  "csstests.qmd": {
+    "csstests.html": "ad3e9236"
+  },
+  "surveywrangle.qmd": {
+    "surveywrangle.html": "0025c018"
+  },
+  "errorcontrol.qmd": {
+    "errorcontrol.html": "0e551ab5"
+  },
+  "irt.qmd": {
+    "irt.html": "1cfc9dd1"
+  }
+}

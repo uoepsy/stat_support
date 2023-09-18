@@ -1,0 +1,14 @@
+---
+title: "Chi-Square Tests"
+---
+
+<!-- Chi-square tests are statistical tests used to analyze the relationship between two or more categorical variables. There are several types of chi-square tests, including the goodness-of-fit test, the test of independence, and the test of homogeneity. The goodness-of-fit test is used to determine if the distribution of a categorical variable fits a theoretical distribution. The test of independence is used to determine if there is a relationship between two categorical variables. The test of homogeneity is used to determine if there is a difference in the distribution of a categorical variable across multiple groups.  -->
+
+Chi-square tests are covered in our [DAPR1](https://uoepsy.github.io/dapr1) and [USMR](https://uoepsy.github.io/usmr) courses.  
+
+You can find examples at the following links:  
+
+- [DAPR1 2021/22 Workbook: Chi-square tests](https://uoepsy.github.io/dapr1/2122/labs/2_10_chisquare.html)
+- [USMR 2022/23 Reading: Chi-square tests](https://uoepsy.github.io/usmr/2223/labs/04a_chisq.html)
+
+

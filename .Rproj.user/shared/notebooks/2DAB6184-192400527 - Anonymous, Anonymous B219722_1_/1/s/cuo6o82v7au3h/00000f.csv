@@ -1,0 +1,6 @@
+"0","MSdata %>% "
+"0","  group_by(rearing) %>%"
+"0","  summarise("
+"0","    m = mean(dominance),"
+"0","    s = sd(dominance)"
+"0","  )"

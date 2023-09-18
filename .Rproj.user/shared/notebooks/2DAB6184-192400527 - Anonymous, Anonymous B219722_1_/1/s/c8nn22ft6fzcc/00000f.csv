@@ -1,0 +1,1 @@
+"0","MSdata$task_time[MSdata$task_time>mean(MSdata$task_time)+3*sd(MSdata$task_time)]=NA"

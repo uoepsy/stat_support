@@ -1,0 +1,18 @@
+---
+title: "T tests"
+---
+
+
+<!-- T tests are a type of statistical test used to determine if there is a significant mean difference between two sets of data. There are several types of t tests, including independent samples t test, dependent samples t test (also known as a paired samples t test), and one-sample t test.  -->
+
+<!-- The independent samples t test is used when you want to compare the means of two separate groups; the dependent samples t test is used when you want to compare the means of two related groups, and the one-sample t test is used when you want to compare a sample mean to an hypothesised population mean.  -->
+
+T tests are covered in our [DAPR1](https://uoepsy.github.io/dapr1) and [USMR](https://uoepsy.github.io/usmr) courses.  
+
+You can find examples at the following links:  
+
+- [DAPR1 2021/22 Workbook: One Sample T test](https://uoepsy.github.io/dapr1/2122/labs/2_07_onesamplet.html)
+- [DAPR1 2021/22 Workbook: Independent Samples T test](https://uoepsy.github.io/dapr1/2122/labs/2_08_independentt.html)
+- [DAPR1 2021/22 Workbook: Paired Sample T test](https://uoepsy.github.io/dapr1/2122/labs/2_09_pairedt.html)
+- [USMR 2022/23 Reading: T tests](https://uoepsy.github.io/usmr/2223/labs/03b_inference2.html#basic-tests)
+

@@ -1,0 +1,7 @@
+"0","P1<-ggplot(MSdata, aes(x=rearing, y=dominance, fill=rearing)) +"
+"0","  geom_boxplot() + "
+"0","  labs(title= ""Dominance scores by Rearing"", x=""Rearing"", y=""Dominance"")"
+"0","P2<-ggplot(MSdata) +"
+"0","  aes(x = species, fill = share) +"
+"0","  geom_bar(position = ""dodge"")+"
+"0","  labs(title = ""Sharing differences by species "")"

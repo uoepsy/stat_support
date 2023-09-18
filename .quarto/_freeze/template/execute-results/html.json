@@ -1,0 +1,18 @@
+{
+  "hash": "3f184dd5a0028db796b4ec6a3b6eb3dc",
+  "result": {
+    "markdown": "---\ntitle: \"Template\"\n---\n\n\n\n\n# Overview\n\n- when to use\n- example\n\n# data simulation\n\n- sim data, code-fold true\n\n# estimation\n\n\n# evaluation\n\n\n# interpretation \n\n\n# visualisation\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-in-header": [
+        "<link href=\"site_libs/panelset-0.2.6/panelset.css\" rel=\"stylesheet\" />\r\n<script src=\"site_libs/panelset-0.2.6/panelset.js\"></script>\r\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,30 @@
+"0","library(table1)"
+"2","
+Attaching package: ‘table1’
+
+"
+"2","The following objects are masked from ‘package:base’:
+
+    units, units<-
+
+"
+"0","library(sjPlot)"
+"2","#refugeeswelcome
+"
+"0","library(psych)"
+"2","
+Attaching package: ‘psych’
+
+"
+"2","The following objects are masked from ‘package:ggplot2’:
+
+    %+%, alpha
+
+"
+"2","The following object is masked from ‘package:lavaan’:
+
+    cor2cov
+
+"
+"0","library(patchwork)"
+"0","library(knitr)"
