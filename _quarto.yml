@@ -3,19 +3,20 @@ project:
   render:
     - "*.qmd"
     - "!todo/*"
+    - "!archive/*"
   output-dir: docs/
 
 website:
   title: "Statistics Support FAQs"
   navbar:
     left:
-      - href: index.html
+      - href: https://uoepsy.github.io
         text: Home
     right:
-      - text: "About"
+      - text: "Additional Docs"
         menu:
-        - text: "thing1 template"
-          href: template.html
+          - surveywrangle.qmd
+
 
 
 format:

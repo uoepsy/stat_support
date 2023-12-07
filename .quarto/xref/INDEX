@@ -28,5 +28,17 @@
   },
   "irt.qmd": {
     "irt.html": "1cfc9dd1"
+  },
+  "archive/chisq.qmd": {
+    "chisq.html": "facbc12c"
+  },
+  "archive/covcor.qmd": {
+    "covcor.html": "ce4d1799"
+  },
+  "archive/indexold.qmd": {
+    "indexold.html": "07d49b34"
+  },
+  "archive/ttest.qmd": {
+    "ttest.html": "812d2d85"
   }
 }

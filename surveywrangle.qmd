@@ -1,5 +1,6 @@
 ---
 title: "Data wrangling for surveys & questionnaires"
+author: "hello"
 params: 
     SHOW_SOLS: TRUE
     TOGGLE: TRUE
@@ -125,7 +126,9 @@ base
 # applying the same operation across variables
 
 tidyverse
+mutate(across())
 base
+apply(df,2,fun)
 
 check!
 

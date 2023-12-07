@@ -1,76 +1,11 @@
 ---
-title: "Statistics Support FAQs"
+title: "Need Help?"
 ---
 
-<script>
-function myFunction() {
-  // Declare variables
-  var input, filter, ul, li, a, i, txtValue;
-  input = document.getElementById('myInput');
-  filter = input.value.toUpperCase();
-  ul = document.getElementById("myUL");
-  li = ul.getElementsByTagName('li');
+For many of the more commonly used analysis techniques in psychology (up to and including structural equation modeling), there's a wealth of information and tutorials across all our course materials, so use the search bar below to have a look:  
 
-  // Loop through all list items, and hide those who don't match the search query
-  for (i = 0; i < li.length; i++) {
-    a = li[i].getElementsByTagName("a")[0];
-    txtValue = a.textContent || a.innerText;
-    if (txtValue.toUpperCase().indexOf(filter) > -1) {
-      li[i].style.display = "";
-    } else {
-      li[i].style.display = "none";
-    }
-  }
-}
+<script async src="https://cse.google.com/cse.js?cx=827cd31b162fe4c7b">
 </script>
+<div class="gcse-search"></div>
 
 
-<!-- - a simple analysis explained well, is better than a complex analysis explained poorly.   -->
-
-
-The following resources and links have been compiled to help with your independent research. For many of the more commonly used analysis techniques in psychology (up to and including structural equation modeling), these will link to materials from the courses we teach in the psychology department, from which you can find example example walkthroughs and datasets. 
-
-These resources will be updated periodically with additional documents for more specific queries about which we are often asked. To access these resources, simply use the search bar provided below.  
-
-
-
-<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for topics... ">
-<div id="myUL">
-<li>[t test](ttest.html)</li>
-<li>[chi square tests](chisq.html)</li>
-<li>[correlation](covcor.html)</li>
-</div>
-
-not done yet: 
-<li>[regression / linear models](regression.html)</li>
-<li>[anova / ancova](anova.html)</li>
-<li>[path analysis](path.html)</li>
-<li>[mediation](mediation.html)</li>
-<li>[moderation / interaction](moderation.html)</li>
-<li>[exploratory factor analysis (EFA)](efa.html)</li>
-<li>[confirmatory factor analysis (CFA)](cfa.html)</li>
-<li>[principal component analysis (PCA)](pca.html)</li>
-<li>[power calculations](power.html)</li>
-<li>[p-value corrections / multiple comparisons](padjust.html)</li>
-<li>[reliability](reliability.html)</li>
-<li>[data wrangling for surveys & questionnaires](surveywrangle.html)</li>
-<li>[factor scores](fscores.html)</li>
-<li>[categorical variables in path models](pathcat.html)</li>
-
-<!-- - Path with categorical predictors -->
-<!-- 	- [https://jslefche.github.io/sem_book/categorical-variables.html](https://jslefche.github.io/sem_book/categorical-variables.html)   -->
-<!-- - "use Bayes to prove the null hypothesis" - bayes support of null -->
-<!-- - equivalence tests TOST -->
-<!-- - Power by simulation -->
-<!-- 	- [https://niklasjohannes.github.io/power-workshop/content/05-alpha-beta-sensitivity/05-slides.html](https://niklasjohannes.github.io/power-workshop/content/05-alpha-beta-sensitivity/05-slides.html) -->
-<!-- - latent class analysis -->
-<!-- - growth curve -->
-<!-- - ordinal reg -->
-<!-- - probit reg -->
-<!-- - beta reg -->
-<!-- - quantile reg -->
-<!-- - mixture model -->
-<!-- - Troubleshooting assumptions ANOVA & LM -->
-<!-- 	- Type of model, model spec, transform, bootstrap -->
-<!-- 	- wilcoxon/man Whitney -->
-<!-- 	- Bootstrap ANOVA -->
